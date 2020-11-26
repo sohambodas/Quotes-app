@@ -1,6 +1,9 @@
 # quotes
 
-A new Flutter application.
+# Identity App
+An app to display your identity to the real world.
+
+![picture](Screenshot_45.png)
 
 ## Getting Started
 
